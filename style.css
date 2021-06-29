@@ -13,6 +13,11 @@ body{
     overflow: hidden;
 
 }
+.shankar{
+    position:absolute;
+    top:0px;
+    margin:5px;
+}
 .clock{
     width: 300px;
     height:  300px;
